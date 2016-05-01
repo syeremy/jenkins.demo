@@ -1,0 +1,44 @@
+# Output directory
+target/
+
+# Eclipse configuration
+.settings/
+.classpath
+.project
+.externalToolBuilders/
+
+# IntelliJ configuration
+.idea
+*.iml
+
+# Operating System cruft
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# JRebel configuration
+*rebel.xml
+
+# Hippo repository storage
+storage/
+
+# Maven cruft
+*.versionsBackup
+
+# Node Modules & Bower Components
+node_modules/
+bower_components/
+npm-debug.log
+
+# Adobe Dreamweaver Contribute Design Notes
+_notes/
+*.mno
+
+# Misc
+tmp/
+
+
